@@ -1,1 +1,1 @@
-https://samusenkoanton.io/rsschool-cv/cv
+https://samusenkoanton.github.io/rsschool-cv/
